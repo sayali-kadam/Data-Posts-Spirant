@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  body{
+    background-image: linear-gradient(to right, #df89b5 0%, #bfd9fe 100%);
+  }
+}
+
+input, textarea{
+  margin: 10px !important;
+  border-color: 'black' !important;
+}
+button{
+  margin: 10px !important;
+}
